@@ -1,1 +1,0 @@
-# Wildfire_Data_Visualization
